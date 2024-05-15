@@ -1,16 +1,20 @@
 # 🎮 2048WindowsFormsApp
-## 🔢 Копия популярной игры «2048», написанная в процессе изучения технологии Windows Forms, с хранением результатов в формате JSON.
+## 🔢 A copy of the popular game "2048", written in the process of learning Windows Forms technology, with results stored in JSON format.
+
 
 ![Изображение](https://github.com/vq11/2048WindowsFormsApp/blob/master/2024-04-26_20-03-21.png)
 
-## 🔧 Техническая часть
-* Проект реализован на платформе Windows Forms.
-* Выполнен с соблюдением принципов ООП.
-* Для сохранения результатов используется формат JSON.
+## 🔧 Technical part
+
+* The project is implemented on the Windows Forms platform.
+
+* Made in compliance with the principles of OOP.
+
+* The JSON format is used to save the results.
 
 
 ## 💾 Сериализация
-С помощью сериализации и десериализации JSON реализовано сохранение и загрузка результатов игры.
+Using JSON serialization and deserialization, you can save and load game results.
 ~~~ csharp
 namespace _2048WindowsFormsApp
 {
