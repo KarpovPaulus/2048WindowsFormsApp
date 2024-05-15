@@ -13,7 +13,7 @@
 * The JSON format is used to save the results.
 
 
-## 💾 Сериализация
+## 💾 Serialization
 Using JSON serialization and deserialization, you can save and load game results.
 ~~~ csharp
 namespace _2048WindowsFormsApp
